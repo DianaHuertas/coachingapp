@@ -1,16 +1,135 @@
-# React + Vite
+# CoachingApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered coaching and client management platform designed for modern fitness coaches.
 
-Currently, two official plugins are available:
+CoachingApp helps coaches manage clients, track workouts, analyze performance, and automate communication — all in one intelligent system.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Vision
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal of CoachingApp is to build a complete business operating system for coaches — not just workout tracking.
 
-## Expanding the ESLint configuration
+This platform will integrate:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📊 Client progress tracking
+- 🗓 Workout programming
+- 💬 Real-time & async messaging
+- 💳 Billing & income tracking
+- 🧾 Contract management
+- 🥗 Nutrition module
+- 🤖 AI-powered performance analysis
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- Vite
+- CSS
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### Future Integrations
+- Stripe (billing)
+- AI movement analysis
+- Video processing
+- Google Sheets / Excel export
+- Bilingual support (English / Spanish)
+
+---
+
+## 📂 Project Structure
+
+```
+coachingapp/
+│
+├── client/        # React frontend
+├── server/        # Node/Express backend
+├── models/        # Database schemas
+├── routes/        # API routes
+└── README.md
+```
+
+---
+
+## 🔥 Current Features
+
+- User authentication system
+- Client registration
+- Workout creation
+- Backend API structure
+- MongoDB database connection
+
+---
+
+## 🧩 In Progress
+
+- Client dashboard
+- Coach dashboard
+- Messaging system
+- Payment integration
+- Workout feedback tracking
+
+---
+
+## 🎯 Long-Term Goal
+
+To create a scalable AI fitness platform that:
+
+- Helps coaches grow their revenue
+- Improves client retention
+- Uses structured performance data
+- Integrates AI to analyze workout quality
+
+---
+
+## 🧪 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/coachingapp.git
+```
+
+Install dependencies:
+
+```bash
+cd server
+npm install
+
+cd ../client
+npm install
+```
+
+Run backend:
+
+```bash
+npm run dev
+```
+
+Run frontend:
+
+```bash
+npm run dev
+```
+
+---
+
+## 👩🏽‍💻 Author
+
+Diana Huertas  
+AI & Product Strategy | Full Stack Development | Healthcare & Performance Systems
+
+---
+
+## 📌 Status
+
+🚧 Active Development  
+This project is continuously evolving.
