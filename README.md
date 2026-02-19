@@ -2,7 +2,7 @@
 
 An AI-powered coaching and client management platform designed for modern fitness coaches.
 
-CoachingApp helps coaches manage clients, track workouts, analyze performance, and automate communication — all in one intelligent system.
+CoachingApp helps coaches manage clients, track workouts, analyze performance, and automate communication, all in one intelligent system.
 
 ---
 
